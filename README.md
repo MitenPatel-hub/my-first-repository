@@ -1,2 +1,2 @@
 # README #
-I like Launch School.
+This is my first GitHub Repository!
