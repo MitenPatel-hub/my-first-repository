@@ -1,3 +1,7 @@
-# README #
-This is my first GitHub Repository!
-Here is some more text.
+# Git Basics
+
+Hello world, I love using git!
+
+Making changes to the remote, let's bring them down to the local.
+
+One more change for luck
